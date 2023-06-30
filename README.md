@@ -1,3 +1,3 @@
 # mapty project
 
-Project used to practice using Geolocation and External Libraries.
+A simple app using geolocation allowing the user to log their running and cycling workout.
